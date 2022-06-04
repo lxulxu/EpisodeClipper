@@ -17,7 +17,7 @@
 以下两种方法任选其一。
 
 - 直接运行程序，模型自动下载
-- <https://github.com/serengil/deepface_models/releases>下载`facenet512_weights.h5`，放入`.deepface/weights`文件夹
+- <https://github.com/serengil/deepface_models/releases>下载`facenet512_weights.h5`和`retinaface.h5`，放入`.deepface/weights`文件夹
 
 ### 4. 准备数据
 
